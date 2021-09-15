@@ -1,0 +1,79 @@
+{
+  "question": [
+    "Q1. How many keywords are there in Python?",
+    "Q2. Who developed the Python Language?",
+    "Q3. Which one of the following is the correct extension of the Python file?",
+    "Q4. What do we use to define a block of code in Python language?",
+    "Q5. HTML full form-",
+    "Q6. Which year was Python made?",
+    "Q7. What is a correct syntax to output Hello World in Python?",
+    "Q8. How do you insert COMMENTS in Python code?",
+    "Q8. How do you create a variable with the numeric value 5?",
+    "Q9. In Python 3 the maximum value for an integer is 2*64 - 1?"
+  ],
+  "answer": [
+    2,
+    1,
+    3,
+    2,
+    2,
+    3,
+    3,
+    2,
+    1,
+    2
+  ],
+  "options": [
+
+    ["30",
+      "33",
+      "35",
+      "37"
+    ],
+    ["Guido van Rossum",
+      "Zim Den",
+      "Wick van Rossum",
+      "Niene Stom"
+    ],
+    [".p",
+      ".python",
+      ".py",
+      ".pn"
+    ],
+    ["Key",
+      "Indentation",
+      "Brackets",
+      "None of these"
+    ],
+
+    ["HyperText Makeup Language",
+      "HyperText Markup Language",
+      "HyperTest Markup Language",
+      "HyperText Marking Language"
+    ],
+    ["1960",
+     "1921",
+     "1991",
+     "1903"
+    ],
+    ["echo Hello World",
+     "p(Hello World)",
+     "print(Hello World)",
+     "echo(Hello World)"
+    ],
+    ["/*This is a comment*/",
+     "#This is a comment",
+     "//This is a comment"
+    ],
+    ["x = int(5)",
+     "x = 5",
+     "Both the other answers are correct",
+     "5=x"
+    ],
+    ["True",
+     "False",
+     "none",
+     "don't Know"
+    ]
+  ]
+}
